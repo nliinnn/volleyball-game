@@ -5,7 +5,8 @@
 }
 
 #canvas1 {
-    background: url('images/background.png');
+    /* background: url('images/background.png'); */
+    /* background-image: url('images/background.png'); */
     border-style: dashed;
     position: absolute;
     top: 50%;
